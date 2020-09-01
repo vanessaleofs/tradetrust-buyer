@@ -20,7 +20,7 @@ export const AnnoucementBarUnStyled = ({ className }: AnnoucementBarProps) => {
                   <div className="profileinfo">
                   <img
                     src="/static/images/icons/buyer.png"
-                  /> <span>Buyer One</span>
+                  /> <span>Buyer</span>  
                     </div>
 
                 </div>
